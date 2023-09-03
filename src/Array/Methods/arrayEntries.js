@@ -1,6 +1,6 @@
 const alphabit = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"];
 
-// gets the enumerator or iterator of an array
+// gets the enumerator(iterator) of an array
 const enumerator = alphabit.entries();
 
 console.log("enumerator.next().value", enumerator.next().value);
