@@ -1,16 +1,5 @@
 const numbersTen = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-const stringsTen = [
-  "One",
-  "Two",
-  "Three",
-  "Four",
-  "Five",
-  "Six",
-  "Seven",
-  "Eight",
-  "Nine",
-  "Ten",
-];
+
 
 // මෙම inbuilt function එක, integer value එකක් ගෙන ඊට අදාල elemant එක ලබා දේ.
 // integer value එක ධන හෝ සෘණ විය හැකිය.
