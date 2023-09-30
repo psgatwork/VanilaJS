@@ -6,4 +6,6 @@ numR.forEach((x) => console.log(x + 2));
 // What is the difference between every(), foreach() and map()?
 // .map() returns a new Array of objects
 // .every() returns a boolean
-// .forEach() returns nothing
+// .forEach() returns undefined
+
+// most important is this returns undefined
